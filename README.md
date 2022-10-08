@@ -2,8 +2,8 @@
 ## About
 #### A simulation for the known snake game using 16X2 LMB161A character LCD and 4x4 keypad.
 #### The application is run on AVR Atmega32 microcontroller, for any configuration changes to be suitable for another microcontroller you can refer name_CFG.h files and change whatever you want.
-#### Configuration
-##### To run the program, you can use any IDE that is suitable for running C applications, in addition to adding winavr c compiler.
+## Configuration
+#### To run the program, you can use any IDE that is suitable for running C applications, in addition to adding winavr c compiler.
 ## Simulation
 #### You can find a simulation right here in the link: https://drive.google.com/file/d/1EHXG4PUIdORS6jZc-iJhv4TUciqvmq1A/view?usp=sharing
 ## Features
